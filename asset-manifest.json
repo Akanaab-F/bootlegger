@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bootlegger/static/css/main.122b083b.css",
+    "main.js": "/bootlegger/static/js/main.42e04b74.js",
+    "index.html": "/bootlegger/index.html",
+    "main.122b083b.css.map": "/bootlegger/static/css/main.122b083b.css.map",
+    "main.42e04b74.js.map": "/bootlegger/static/js/main.42e04b74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.122b083b.css",
+    "static/js/main.42e04b74.js"
+  ]
+}
